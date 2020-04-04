@@ -3,7 +3,7 @@ class Artist
   @@song_count
 
   def initialize(name)
-  
+
   end
 
 #
