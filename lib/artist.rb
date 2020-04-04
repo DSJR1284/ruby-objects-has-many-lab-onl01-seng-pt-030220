@@ -5,8 +5,11 @@ class Artist
 
   def initialize(name)
     @name=name
-    @song=song
   end
+
+  def songs
+
+  end 
 
 #
 #   def add_song
